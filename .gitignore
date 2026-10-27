@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+01-coders-of-delhi/data/cleaned_codebook_data.json
+predictions.csv

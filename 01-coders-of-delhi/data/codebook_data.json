@@ -1,0 +1,23 @@
+{
+  "users": [
+    {"id": 1, "name": "Manas", "friends": [2, 3, 6], "liked_pages": [101, 103]},
+    {"id": 2, "name": "Ananya", "friends": [1, 4, 4], "liked_pages": [101, 102]},
+    {"id": 3, "name": "Rohan", "friends": [1, 5], "liked_pages": [103, 105]},
+    {"id": 4, "name": "Isha", "friends": [2, 5, 7], "liked_pages": [102, 104]},
+    {"id": 5, "name": "Karan", "friends": [3, 4, 5], "liked_pages": [101, 105, 108]},
+    {"id": 6, "name": "Tanvi", "friends": [1, 7, 42], "liked_pages": [103, 104]},
+    {"id": 7, "name": "Arjun", "friends": [4], "liked_pages": [104, 106]},
+    {"id": 8, "name": "", "friends": [1], "liked_pages": [101]},
+    {"id": 9, "name": "Meera", "friends": [], "liked_pages": []},
+    {"id": 3, "name": "Rohan (duplicate)", "friends": [2], "liked_pages": [101]}
+  ],
+  "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Web Dev Hub"},
+    {"id": 103, "name": "Machine Learning Daily"},
+    {"id": 104, "name": "DSA & Competitive Programming"},
+    {"id": 105, "name": "Data Science Enthusiasts"},
+    {"id": 106, "name": "Open Source India"},
+    {"id": 104, "name": "DSA Practice"}
+  ]
+}
